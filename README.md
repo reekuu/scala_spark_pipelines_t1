@@ -1,4 +1,4 @@
-# Apache Spark+Scala. Репозиторий проектов.
+# [Apache Spark+Scala](https://t1.ru/internship/item/otkrytaya-shkola-dlya-inzhenerov-dannykh-data-engineer/). Репозиторий проектов.
 
 ![logo-wide](logo-wide.jpeg)
 
