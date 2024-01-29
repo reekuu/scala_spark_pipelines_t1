@@ -1,4 +1,4 @@
-# Открытая школа Apache Spark+Scala. Репозиторий проектов.
+# Apache Spark+Scala. Репозиторий проектов.
 
 ![logo-wide](logo-wide.jpeg)
 
